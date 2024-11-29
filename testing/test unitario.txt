@@ -1,3 +1,5 @@
 Caso de prueba Nro 1
 Test unitario creado por desarrollo
 Caso de prueba Nro 2
+Nuevo caso de prueba Nro 3
+Resultado obtenido: ok
